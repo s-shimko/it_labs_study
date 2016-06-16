@@ -12,7 +12,7 @@ class TestRegistration < Test::Unit::TestCase
     @wait = Selenium::WebDriver::Wait.new(:timeout => 10)
 
     # create_participant
-
+#Fork#Fork#Fork#Fork#Fork#Fork#Fork#Fork#Fork#Fork#Fork#Fork#Fork
 
   end
 
